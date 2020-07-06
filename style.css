@@ -352,6 +352,7 @@ border: none;
 .purple-text {
     background-color: #644ce2;
     border-radius: 3px;
+    padding-top: 2px;
 }
 
 .footer-menu__person {
